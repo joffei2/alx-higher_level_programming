@@ -1,5 +1,5 @@
 #!/usr/bin/node
-/* a function that returns the number of occurrences in a list */
+/* a function that returns the reversed version of a list */
 
 exports.esrever = function (list) {
     if (list === undefined) return [];
