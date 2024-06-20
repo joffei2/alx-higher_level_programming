@@ -1,5 +1,6 @@
 #!/usr/bin/node
 /* a script that computes and prints a factorial */
+
 const myObject = {
   type: 'object',
   value: 12
