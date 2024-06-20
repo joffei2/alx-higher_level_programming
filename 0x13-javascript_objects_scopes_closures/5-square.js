@@ -1,6 +1,6 @@
 #!/usr/bin/node
-/* a class Rectangle that defines a rectangle
- take 2 arguments: w and h */
+/*a class Square that defines a square and inherits from
+Rectangle of 4-rectangle.js*/
 
  class Rectangle {
     constructor (w, h) {
